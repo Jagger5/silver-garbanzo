@@ -1,0 +1,11 @@
+season,date,home_team,away_team,home_conference,away_conference,home_score,away_score,home_adj_em,away_adj_em,home_adj_tempo,away_adj_tempo,home_rest_days,away_rest_days,neutral_site
+2024,2024-03-10,Connecticut,Marquette,Big East,Big East,73,57,30.5,23.1,69.0,67.8,1,1,1
+2024,2024-03-16,Houston,Iowa State,Big 12,Big 12,69,41,29.8,23.4,65.5,66.2,1,1,1
+2024,2024-03-16,Purdue,Wisconsin,Big Ten,Big Ten,76,75,28.7,19.5,66.3,65.4,1,1,1
+2024,2024-03-09,North Carolina,Duke,ACC,ACC,84,79,23.7,23.2,69.5,68.1,5,5,0
+2024,2024-03-05,Baylor,Kansas,Big 12,Big 12,82,90,23.4,22.8,68.2,67.1,4,4,0
+2024,2024-02-10,Arizona,Oregon,Pac-12,Pac-12,87,78,25.3,15.9,71.3,68.5,6,6,0
+2024,2024-02-17,Alabama,Kentucky,SEC,SEC,98,93,23.1,21.0,72.1,70.5,7,7,0
+2024,2024-03-02,Gonzaga,Saint Mary's,WCC,WCC,70,57,23.9,19.1,68.8,63.9,6,6,0
+2024,2024-02-24,Tennessee,Auburn,SEC,SEC,92,84,22.0,21.8,70.3,69.2,7,7,0
+2024,2024-03-02,Creighton,Seton Hall,Big East,Big East,85,64,20.7,15.4,68.4,65.9,6,6,0
